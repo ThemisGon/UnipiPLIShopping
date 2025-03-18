@@ -1,0 +1,112 @@
+{
+  "Users": {
+    "sDUnklfCXlZqOJfdso6SrNJrBxs1": {
+      "fullName": "Νίκος Μπλαχούρης",
+      "email": "nikosmplx@gmail.com"
+    },
+    "WzFxsyhfj1chhTDg5eIlbnDYSy73": {
+      "fullName": "Πάνος Πολυκόγκωνας",
+      "email": "panospoly@gmail.com"
+    },
+    "r9P5yKGuxXfaA60Ouw89jYBwIiw2": {
+      "fullName": "Θέμης Γονέος",
+      "email": "themisgon@gmail.com"
+    },
+    "FPnwsyWI5oX5KJMn2WbfM6Wv4Mg1": {
+      "fullName": "Κωσταντίνος Πετσόπουλος",
+      "email": "kostaspet@gmail.com"
+    }
+  },
+  "Products": {
+    "product1": {
+      "productId": "1",
+      "title": "Laptop Dell XPS 15",
+      "description": "Powerful laptop with Intel i9 και 32GB RAM.",
+      "releaseDate": "2024-01-10",
+      "price": 1899.99,
+      "storeLocation": { "latitude": 37.9755, "longitude": 23.7345 },
+      "imageUrl": "https://i.imghippo.com/files/yLja2734IMk.png"
+    },
+    "product2": {
+      "productId": "2",
+      "title": "Smartphone Samsung Galaxy S23",
+      "description": "New smartphone with Snapdragon 8 Gen 2.",
+      "releaseDate": "2023-12-05",
+      "price": 999.99,
+      "storeLocation": { "latitude": 37.9800, "longitude": 23.7300 },
+      "imageUrl": "https://i.imghippo.com/files/WCgM6299ya.png"
+    },
+    "product3": {
+      "productId": "3",
+      "title": "Apple MacBook Air M2",
+      "description": "Light and powerful laptop with M2 chip.",
+      "releaseDate": "2023-11-20",
+      "price": 1299.99,
+      "storeLocation": { "latitude": 37.9700, "longitude": 23.7350 },
+      "imageUrl": "https://i.imghippo.com/files/BDUl3614WAY.png"
+    },
+    "product4": {
+      "productId": "4",
+      "title": "PlayStation 5",
+      "description": "Next-gen gaming console from Sony.",
+      "releaseDate": "2023-10-15",
+      "price": 499.99,
+      "storeLocation": { "latitude": 37.9750, "longitude": 23.7400 },
+      "imageUrl": "https://i.imghippo.com/files/ogQg9402iY.png"
+    },
+    "product5": {
+      "productId": "5",
+      "title": "Xbox Series X",
+      "description": "Latest gaming console from Microsoft.",
+      "releaseDate": "2023-09-30",
+      "price": 549.99,
+      "storeLocation": { "latitude": 37.9720, "longitude": 23.7325 },
+      "imageUrl": "https://i.imghippo.com/files/ApFu7859ljw.png"
+    },
+    "product6": {
+      "productId": "6",
+      "title": "Smart TV LG OLED 55''",
+      "description": "4K OLED Tv with Dolby Vision.",
+      "releaseDate": "2023-08-25",
+      "price": 1299.99,
+      "storeLocation": { "latitude": 37.9785, "longitude": 23.7365 },
+      "imageUrl": "https://i.imghippo.com/files/Xvu5578qEE.png"
+    },
+    "product7": {
+      "productId": "7",
+      "title": "iPad Pro 12.9'' M2",
+      "description": "Powerful tablet from Apple with M2 chip.",
+      "releaseDate": "2023-07-10",
+      "price": 1099.99,
+      "storeLocation": { "latitude": 37.9655, "longitude": 23.7305 },
+      "imageUrl": "https://i.imghippo.com/files/NIB4881HZk.png"
+    },
+    "product8": {
+      "productId": "8",
+      "title": "Apple Watch Series 9",
+      "description": "Latest apple smartwatch.",
+      "releaseDate": "2023-06-15",
+      "price": 499.99,
+      "storeLocation": { "latitude": 37.9620, "longitude": 23.7280 },
+      "imageUrl": "https://i.imghippo.com/files/rht5058VQ.png"
+    },
+    "product9": {
+      "productId": "9",
+      "title": "GoPro Hero 11 Black",
+      "description": "Action camera with 5K recording video ability.",
+      "releaseDate": "2023-05-20",
+      "price": 449.99,
+      "storeLocation": { "latitude": 37.9705, "longitude": 23.7340 },
+      "imageUrl": "https://i.imghippo.com/files/AxJN3827lo.png"
+    },
+    "product10": {
+      "productId": "10",
+      "title": "Sony WH-1000XM5",
+      "description": "Wireless headphones with noise cancelling.",
+      "releaseDate": "2023-04-05",
+      "price": 399.99,
+      "storeLocation": { "latitude": 37.9752, "longitude": 23.7338 },
+      "imageUrl": "https://i.imghippo.com/files/flY4263LRM.png"
+    }
+  }
+}
