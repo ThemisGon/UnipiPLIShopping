@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">UnipiPLIShopping</string>
+    <string name="Order">Order</string>
+    <string name="sendOrder">Send Order</string>
+    <string name="lookProducts">Look at other products</string>
+    <string name="seeallOrders">See your Orders</string>
+
+    <string name="Orders">Orders</string>
+    <string name="backOrderpage">Go back to Order Screen</string>
+    <string name="backProductpage">Go back to Product Screen</string>
+
+    <string name="Products">Products</string>
+
+    <string name="Settings">Settings</string>
+    <string name="colourselect">Color selection:</string>
+    <string name="fontsize">Font size:</string>
+    <string name="location">Location:</string>
+    <string name="example">Example</string>
+    <string name="lanquagechoose">Choose Language:</string>
+
+    <string name="Product">Product</string>
+    <string name="addbasket">Add to Basket</string>
+    <string name="seeOrder">See your Order</string>
+
+</resources>

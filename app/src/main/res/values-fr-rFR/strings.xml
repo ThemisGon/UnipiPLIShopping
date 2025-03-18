@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Order">Commande</string>
+    <string name="sendOrder">Envoyer la commande</string>
+    <string name="lookProducts">Voir d\'autres produits</string>
+    <string name="seeallOrders">Voir vos commandes</string>
+    <string name="Orders">Commandes</string>
+    <string name="backOrderpage">Retourner à l\'écran de commande</string>
+    <string name="backProductpage">Retourner à l\'écran des produits</string>
+    <string name="Products">"Produits "</string>
+    <string name="Settings">Paramètres</string>
+    <string name="colourselect">Sélection des couleurs:</string>
+    <string name="fontsize">Taille de la police :</string>
+    <string name="location">Localisation:</string>
+    <string name="example">Exemple</string>
+    <string name="lanquagechoose">Choisissez la langue :</string>
+    <string name="Product">Produit</string>
+    <string name="addbasket">Ajouter au panier</string>
+    <string name="seeOrder">Voir votre commande</string>
+</resources>

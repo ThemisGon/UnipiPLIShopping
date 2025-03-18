@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addbasket">Añadir a la cesta</string>
+    <string name="seeOrder">Ver su pedido</string>
+    <string name="Order">Pida</string>
+    <string name="sendOrder">Enviar pedido</string>
+    <string name="lookProducts">Ver otros productos</string>
+    <string name="seeallOrders">Ver sus pedidos</string>
+    <string name="Orders">Pedidos</string>
+    <string name="backOrderpage">Volver a la pantalla de pedidos</string>
+    <string name="backProductpage">Volver a la pantalla de productos</string>
+    <string name="Products">Productos</string>
+    <string name="Settings">Ajustes</string>
+    <string name="colourselect">Selección de colores:</string>
+    <string name="fontsize">Tamaño de letra:</string>
+    <string name="location">Ubicación:</string>
+    <string name="example">Ejemplo</string>
+    <string name="lanquagechoose">Elija idioma:</string>
+    <string name="Product">Producto</string>
+</resources>
